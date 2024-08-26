@@ -1,6 +1,6 @@
 # Hunter Karsseboom's Portfolio
 
-Welcome to my GitHub profile! I'm a web developer passionate about creating interactive and visually appealing web experiences.
+Welcome to my GitHub profile! I'm an aspiring web developer passionate about creating interactive and visually appealing web experiences. 
 
 ## 🚀 Portfolio
 
