@@ -19,6 +19,12 @@ Explore my interactive 3D portfolio at [www.hunterkarsseboom.com](https://www.hu
 
 ## 🌟 Featured Projects
 
+### PebbleGPT: The Project I'm most proud of that hundreds of users use daily:
+- **Description**: A ChatGPT app for the Pebble Time SmartWatch, using voice input for prompts.
+- **Technologies**: C, JavaScript, Pebble SDK
+- **[App in Rebble Store](https://apps.rebble.io/en_US/application/64853961143b6504611fbc06)**
+- **[Source Code](https://github.com/huntboom/PebbleGPT)**
+  
 ### Bopify: A Spotify-Inspired Web Application
 - **Description**: A Spotify clone showcasing API integration, complex UI design, and responsive user experience.
 - **Technologies**: React.js, Spotify Web API, Custom state management, Material-UI
@@ -43,11 +49,6 @@ Explore my interactive 3D portfolio at [www.hunterkarsseboom.com](https://www.hu
 - **[Live Site](https://twitter-clone-omega-lyart.vercel.app/)**
 - **[Source Code](https://github.com/huntboom/twitter-clone)**
 
-### PebbleGPT
-- **Description**: A ChatGPT app for the Pebble Time SmartWatch, using voice input for prompts.
-- **Technologies**: C, JavaScript, Pebble SDK
-- **[App in Rebble Store](https://apps.rebble.io/en_US/application/64853961143b6504611fbc06)**
-- **[Source Code](https://github.com/huntboom/PebbleGPT)**
 
 ## 💻 Skills
 
