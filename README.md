@@ -32,12 +32,6 @@ Explore my interactive 3D portfolio at [www.hunterkarsseboom.com](https://www.hu
 - **[Live Site](https://bopified2.web.app/)**
 - **[Source Code](https://github.com/huntboom/bopify)**
 
-### QuadBox Controllers
-- **Description**: A React Three Fiber project allowing users to customize and build their own fight-stick style controller.
-- **Technologies**: React Three Fiber, React Router, Zustand
-- **[Live Site](https://quadbox-controllers.vercel.app/)**
-- **[Source Code](https://github.com/huntboom/quadbox-controllers)**
-
 ### Doggogram
 - **Description**: An Instagram clone for dog photos, featuring machine learning for dog image verification.
 - **Technologies**: NextJS, TensorFlow, Firebase, NextAuth
