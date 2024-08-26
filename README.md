@@ -10,9 +10,10 @@ Explore my interactive 3D portfolio at [www.hunterkarsseboom.com](https://www.hu
 
 - Three.js
 - React Three Fiber
-- HTML5
-- CSS3
+- HTML and CSS
 - JavaScript
+- C
+- Python
 - React.js
 - Material-UI
 - Firebase
