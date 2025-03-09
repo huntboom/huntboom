@@ -20,11 +20,11 @@ Explore my interactive 3D portfolio at [www.hunterkarsseboom.com](https://www.hu
 
 ## 🌟 Featured Projects
 
-### PebbleGPT: The Project I'm most proud of that hundreds of users use daily:
+### PebbleAI: The Project I'm most proud of that hundreds of users use daily:
 - **Description**: A ChatGPT app for the Pebble Time SmartWatch, using voice input for prompts.
 - **Technologies**: C, JavaScript, Pebble SDK
 - **[App in Rebble Store](https://apps.rebble.io/en_US/application/64853961143b6504611fbc06)**
-- **[Source Code](https://github.com/huntboom/PebbleGPT)**
+- **[Source Code](https://github.com/huntboom/PebbleAI)**
   
 ### Bopify: A Spotify-Inspired Web Application
 - **Description**: A Spotify clone showcasing API integration, complex UI design, and responsive user experience.
@@ -46,7 +46,7 @@ Explore my interactive 3D portfolio at [www.hunterkarsseboom.com](https://www.hu
 
 
 ## 💻 Skills
-
+- Python, Typescript, C 
 - React and React Hooks
 - Redux and Custom State Management
 - RESTful APIs integration
